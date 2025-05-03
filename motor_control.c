@@ -1,3 +1,9 @@
+/*
+ *  motor_control.c
+ *
+ *  Created on: 2025/05/03
+ *      Author: ykc
+ */
 #include <motor_control.h>
 #include <motor_pid.h>
 #include <stdint.h>

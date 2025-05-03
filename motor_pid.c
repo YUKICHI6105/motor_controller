@@ -1,3 +1,9 @@
+/*
+ *  motor_pid.c
+ *
+ *  Created on: 2025/05/03
+ *      Author: ykc
+ */
 #include <motor_pid.h>
 
 void PIDParam_Init(PIDParameter *pid_param, uint32_t velkp, uint32_t velki,
